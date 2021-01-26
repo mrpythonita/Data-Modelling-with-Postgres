@@ -1,6 +1,6 @@
 # Data Modelling with Postgres
 
-This is the first project for the Data Engineering Nano Degree program. It focuses on modelling data with Postgress for a made up music streaming company named Sparkify.
+This project focuses on modelling data with Postgress for a made up music streaming company named Sparkify.
 
 ## Getting Started
 
